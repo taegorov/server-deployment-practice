@@ -2,9 +2,9 @@
 
 Simple express server with one route that responds with a message.
 
-![simple express app](UML.png)
+![simple express app](server-deployment-practice.JPG)
 
-
+---
 
 ## Routes
 
@@ -20,8 +20,10 @@ Simple express server with one route that responds with a message.
 * JSON response: Person
   * Person includes name and age.
 
+--- 
 
+## URLs
 
-# URLs
+[yourname-server-deploy-prod](https://timegorov-server-deploy-prod.herokuapp.com/)
 
 [yourname-server-deploy-dev](https://timegorov-server-deploy-dev.herokuapp.com/)
